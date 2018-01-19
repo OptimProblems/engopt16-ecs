@@ -1,3 +1,5 @@
+<img src="archi.png" align="right" alt="ECS architecture" />
+
 # engopt16-ecs
 
 ## Content
@@ -10,7 +12,6 @@ Design of a commercial aircraft environment control system using
 Bayesian optimization techniques.  
 In: _EngOpt 2016, 5th International Conference on Engineering Optimization_, pp. 400-409.
 
-![ECS architecture](archi.png)
 
 ## Authors
 
